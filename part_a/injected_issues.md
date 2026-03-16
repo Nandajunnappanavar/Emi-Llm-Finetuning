@@ -1,0 +1,37 @@
+# Injected issues (approx 35% of conversations)
+
+- conv_075: blank_turn
+- conv_069: blank_turn
+- conv_056: garbled_text
+- conv_061: garbled_text
+- conv_007: short_conversation
+- conv_031: garbled_text
+- conv_074: garbled_text
+- conv_100: missing_fields
+- conv_062: duplicate_turn
+- conv_051: language_mismatch
+- conv_013: blank_turn
+- conv_021: missing_fields
+- conv_078: language_mismatch
+- conv_096: short_conversation
+- conv_015: language_mismatch
+- conv_090: short_conversation
+- conv_019: bad_metadata
+- conv_017: bad_metadata
+- conv_016: garbled_text
+- conv_097: bad_metadata
+- conv_048: blank_turn
+- conv_014: short_conversation
+- conv_072: duplicate_turn
+- conv_003: short_conversation
+- conv_011: bad_metadata
+- conv_027: bad_metadata
+- conv_018: missing_fields
+- conv_041: duplicate_turn
+- conv_049: language_mismatch
+- conv_033: blank_turn
+- conv_055: short_conversation
+- conv_038: short_conversation
+- conv_047: garbled_text
+- conv_058: garbled_text
+- conv_030: garbled_text
